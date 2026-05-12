@@ -5,11 +5,11 @@
   "private": true,
   "type": "module",
   "description": "WebMais - Apresentação de Automação de Testes",
-  "homepage": "https://jovax-qa.github.io/webmais-presentation",
+  "homepage": "https://jovax-qa.github.io/WebMais-slide",
   "scripts": {
     "dev": "vite --config vite.config.ts --host 0.0.0.0",
     "build": "vite build --config vite.config.ts",
-    "build:github": "BASE_PATH=/webmais-presentation/ vite build --config vite.config.ts",
+    "build:github": "BASE_PATH=/WebMais-slide/ vite build --config vite.config.ts",
     "preview": "vite preview --config vite.config.ts --host 0.0.0.0",
     "serve": "vite preview --config vite.config.ts --host 0.0.0.0",
     "typecheck": "tsc -p tsconfig.json --noEmit",
